@@ -1,6 +1,8 @@
 export const Profile = () => {
     return (
-        <div>Primer Ruta dinamica</div>
+        <div>
+            <h1>Primer Ruta dinamica</h1>
+        </div>
     )
 }
 
